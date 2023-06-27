@@ -1,0 +1,13 @@
+
+
+header{
+    display: flex;
+    padding:5px;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Rubik;
+}
+
+header img{
+    height: 8vw;
+}
