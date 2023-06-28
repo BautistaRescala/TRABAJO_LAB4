@@ -7,10 +7,9 @@ header{
 header img{
     height: 8vw;
 }
-.indx{
-    display:flex;
-    justify-content: center;
-    background-color: lightgray;
+.carousel-inner{
+    height: 1080;
+    width: 720;
 }
 footer{
     height: 1.5vw;
