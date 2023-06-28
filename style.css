@@ -12,9 +12,10 @@ header img{
     width: 720;
 }
 footer{
-    height: 1.5vw;
+    padding: 1px;
+    height: 3vw;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     background-color: darkolivegreen;
 }
