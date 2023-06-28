@@ -16,6 +16,28 @@ footer{
     height: 3vw;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     background-color: darkolivegreen;
+}
+
+.tbcontainer{
+    font-family: Rubik;
+    flex-wrap: wrap;
+    flex-flow: column;
+    padding:10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.faq{
+    display:flex;
+    font-family: Rubik;
+    padding: 40px;
+    flex-flow: column;
+}
+
+table, th, td{
+    border: 1px solid black;
 }
