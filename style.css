@@ -41,3 +41,20 @@ footer{
 table, th, td{
     border: 1px solid black;
 }
+
+.fcontainer{
+    display:flex;
+    flex-flow: column;
+    align-items: flex-start;
+    padding: 15px;
+}
+
+.chbox{
+    padding:1px;
+}
+
+form{
+    display:flex;
+    flex-flow:column;
+    justify-content: space-around;
+}
