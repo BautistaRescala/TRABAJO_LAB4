@@ -7,9 +7,9 @@ const container_sillas = document.querySelector(".container_info")
 
 container_sillas.innerHTML = `<div class="column">
     <h2>${searchedSilla.name}</h2>
-    <img src="${searchedSilla.image}" alt="Imagen del animal">
+    <img src="${searchedSilla.image}" alt="Silla imagen">
 </div>
 <div class="column">
-    <h2>Información</h2>
+    <h2>Detalles:</h2>
     <p>${searchedSilla.info}</p>
 </div>`
